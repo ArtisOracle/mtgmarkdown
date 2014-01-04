@@ -1,6 +1,5 @@
 # Deck - 60
 ## Artifact - 0
-### CMC - N
     4 Card Name
 ## Basic - 0
 ## Creature - 0
@@ -21,7 +20,6 @@
 
 # Sideboard - 15
 ## Artifact - 0
-### CMC - N
     4 Card Name
 ## Basic - 0
 ## Creature - 0
