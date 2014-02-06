@@ -1,22 +1,25 @@
 # Deck - 60
-## Artifact - 4
-    4 Mindcrank
-## Creature - 24
-    4 Pili-Pala
-    4 Duskmantle Guildmage
-    4 Dimir Infiltrator
-    4 Mindshrieker
-    4 Grand Architect
-    4 Drift of Phantasms
-## Instant - 8
-    4 Muddle the Mixture
-    4 Perplex
-## Land - 20
+## Artifact - 6
+    2 Mindcrank
+    4 Neurok Stealthsuit
+## Creature - 16
+    3 Pili-Pala
+    2 Duskmantle Guildmage
+    3 Dimir Infiltrator
+    3 Drift of Phantasms
+    3 Grand Architect
+    2 Vampire Nighthawk
+## Instant - 12
+    4 Doom Blade
+    4 Go for the Throat
+    2 Muddle the Mixture
+    2 Perplex
+## Land - 22
     4 Drowned Catacomb
-    4 Nephalia Drownyard
+    4 Darkslick Shores
+    4 Crumbling Necropolis
+    4 Akoum Refuge
     6 Island
-    6 Swamp
 ## Sorcery - 4
     4 Mind Grind
-
 # Sideboard - 15
