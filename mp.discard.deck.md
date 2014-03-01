@@ -1,4 +1,4 @@
-# Deck - 60
+# Deck - 61
 ## Creature - 18
     4 Black Oak of Odunos
     2 Hollowsage
