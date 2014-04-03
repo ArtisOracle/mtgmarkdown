@@ -3,7 +3,7 @@
 	1 Spear of Heliod
 	1 Marble Chalice
 ## Creature - 23
-	2 Thraben Doomsayer
+	2 Victory's Herald
 	2 Cavalry Pegasus
 	2 Cloud Crusader
 	2 Angelic Overseer
@@ -22,16 +22,16 @@
 	2 Hold the Line
 	1 Cursebreak
 	2 Guardians' Pledge
-## Land - 22
+## Land - 24
 	2 Forbidding Watchtower
 	2 Kabira Crossroads
-	18 Plains
-	
+	20 Plains
 ## Planeswalker - 0
 ## Sorcery - 5
 	2 Martial Coup
-	2 Increasing Devotion
+	2 Nomad's Assembly
 	1 Mass Calcify
+	
 # Sideboard - 15
 ## Artifact - 0
     4 Card Name
