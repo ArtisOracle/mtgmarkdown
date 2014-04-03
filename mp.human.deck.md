@@ -1,8 +1,8 @@
-# Deck - 60
+# Deck - 62
 ## Artifact - 2
 	1 Spear of Heliod
 	1 Marble Chalice
-## Creature - 23
+## Creature - 22
 	2 Victory's Herald
 	2 Araba Mothrider
 	2 Cloud Crusader
@@ -18,11 +18,12 @@
 ## Enchantment - 6
 	2 Mobilization
 	2 Militia's Pride
-	4 Nimbus Wings
+	2 Nimbus Wings
 ## Instant - 5
 	1 Cursebreak
 	2 Guardians' Pledge
-## Land - 24
+	2 Raise the Alarm
+## Land - 22
 	2 Forbidding Watchtower
 	2 Kabira Crossroads
 	18 Plains
