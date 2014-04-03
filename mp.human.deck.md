@@ -4,7 +4,7 @@
 	1 Marble Chalice
 ## Creature - 23
 	2 Victory's Herald
-	2 Cavalry Pegasus
+	2 Araba Mothrider
 	2 Cloud Crusader
 	2 Angelic Overseer
 	2 Benalish Commander
@@ -14,22 +14,22 @@
 	1 Mikaeus, the Lunarch
 	1 Heliod, God of the Sun
 	1 Frontline Medic
-	2 God-Favored General
+	3 God-Favored General
 ## Enchantment - 6
 	2 Mobilization
+	2 Militia's Pride
 	4 Nimbus Wings
 ## Instant - 5
-	2 Hold the Line
 	1 Cursebreak
 	2 Guardians' Pledge
 ## Land - 24
 	2 Forbidding Watchtower
 	2 Kabira Crossroads
-	20 Plains
+	18 Plains
 ## Planeswalker - 0
 ## Sorcery - 5
 	2 Martial Coup
-	2 Nomad's Assembly
+	2 Nomads' Assembly
 	1 Mass Calcify
 	
 # Sideboard - 15
