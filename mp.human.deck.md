@@ -4,7 +4,8 @@
 	1 Marble Chalice
 ## Creature - 23
 	2 Thraben Doomsayer
-	4 Cavalry Pegasus
+	2 Cavalry Pegasus
+	2 Cloud Crusader
 	2 Angelic Overseer
 	2 Akroan Skyguard
 	2 Benalish Commander
@@ -14,9 +15,9 @@
 	1 Mikaeus, the Lunarch
 	1 Heliod, God of the Sun
 	1 Frontline Medic
-	2 Veteran Swordsmith 
+	2 God-Favored General
 ## Enchantment - 4
-	2 Asha's Favor
+	2 Mobilization
 	2 Serra's Blessing
 ## Instant - 5
 	2 Hold the Line
