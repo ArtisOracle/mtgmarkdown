@@ -1,23 +1,23 @@
 # Deck - 62
 ## Artifact - 2
-	1 Spear of Heliod
 	1 Marble Chalice
+	1 Spear of Heliod
 ## Creature - 22
-	2 Victory's Herald
-	2 Araba Mothrider
-	2 Cloud Crusader
 	2 Angelic Overseer
+	2 Araba Mothrider
 	2 Benalish Commander
-	2 Field Marshal
-	2 Palace Guard
 	2 Champion of the Parish
-	1 Mikaeus, the Lunarch
-	1 Heliod, God of the Sun
+	2 Cloud Crusader
+	2 Field Marshal
 	1 Frontline Medic
 	3 God-Favored General
+	1 Heliod, God of the Sun
+	1 Mikaeus, the Lunarch
+	2 Palace Guard
+	2 Victory's Herald
 ## Enchantment - 6
-	2 Mobilization
 	2 Militia's Pride
+	2 Mobilization
 	2 Nimbus Wings
 ## Instant - 5
 	1 Cursebreak
@@ -30,9 +30,9 @@
 ## Planeswalker - 0
 ## Sorcery - 5
 	2 Martial Coup
-	2 Nomads' Assembly
 	1 Mass Calcify
-	
+	2 Nomads' Assembly
+
 # Sideboard - 15
 ## Artifact - 0
     4 Card Name
