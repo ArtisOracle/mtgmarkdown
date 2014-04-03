@@ -3,12 +3,12 @@
 	1 Marble Chalice
 	1 Spear of Heliod
 ## Creature - 22
+	2 Akroan Skyguard
 	2 Angelic Overseer
-	2 Araba Mothrider
+	2 Archetype of Courage
 	2 Benalish Commander
 	2 Champion of the Parish
 	2 Cloud Crusader
-	2 Field Marshal
 	1 Frontline Medic
 	3 God-Favored General
 	1 Heliod, God of the Sun
