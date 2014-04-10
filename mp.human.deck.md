@@ -1,6 +1,6 @@
 # Deck - 62
 ## Artifact - 2
-	1 Marble Chalice
+	1 Angel's Feather
 	1 Spear of Heliod
 ## Creature - 22
 	2 Akroan Skyguard
