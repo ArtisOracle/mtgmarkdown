@@ -4,6 +4,7 @@
 	1 Spear of Heliod
 ## Creature - 22
 	2 Akroan Skyguard
+	1 Angel of Glory's Rise
 	2 Angelic Overseer
 	2 Archetype of Courage
 	2 Benalish Commander
@@ -11,16 +12,16 @@
 	2 Cloud Crusader
 	1 Frontline Medic
 	3 God-Favored General
-	1 Heliod, God of the Sun
+	2 Hero of Bladehold
 	1 Mikaeus, the Lunarch
 	2 Palace Guard
 	2 Victory's Herald
-## Enchantment - 6
+## Enchantment - 8
+	2 Burden of Guilt
+	2 Serra's Blessing
 	2 Militia's Pride
-	2 Mobilization
 	2 Nimbus Wings
-## Instant - 5
-	1 Cursebreak
+## Instant - 4
 	2 Guardians' Pledge
 	2 Raise the Alarm
 ## Land - 22
@@ -29,10 +30,10 @@
 	18 Plains
 ## Planeswalker - 0
 ## Sorcery - 5
-	2 Martial Coup
 	1 Mass Calcify
 	2 Nomads' Assembly
-
+	2 Revoke Existence
+	
 # Sideboard - 15
 ## Artifact - 0
     4 Card Name
