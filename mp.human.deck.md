@@ -8,7 +8,7 @@
 	2 Captain of the Watch
 	2 Archetype of Courage
 	2 Benalish Commander
-	2 Champion of the Parish
+	3 Champion of the Parish
 	2 Dawnbringer Charioteers
 	1 Frontline Medic
 	2 Hero of Bladehold
