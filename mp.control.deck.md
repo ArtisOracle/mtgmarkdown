@@ -1,4 +1,4 @@
-# Deck - 61
+# Deck - 63
 ## Artifact - 6
 	1 Elixir of Immortality
 	3 Sol Ring
@@ -10,7 +10,7 @@
 	2 Krovikan Mist
 	2 Lord of the Unreal
 	3 Pili-Pala
-	2 Shape Stealer
+	2 Phantasmal Image
 # Enchantment - 6
 	2 Fool's Demise
 	2 Favorable Winds
@@ -22,8 +22,8 @@
 	2 Syncopate
 	2 Disperse
 	2 Negate
-## Land - 15
-    14 Island
+## Land - 17
+    16 Island
 	1 Reliquary Tower
 ## Sorcery - 4
     4 Mind Spring
