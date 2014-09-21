@@ -1,29 +1,28 @@
-# Deck - 63
-## Artifact - 6
+# Deck - 62
+## Artifact - 7
 	1 Elixir of Immortality
-	3 Sol Ring
+	4 Sol Ring
 	1 Venser's Journal
 	1 Riptide Replicator
 ## Creature - 16
-	4 Chronozoa
-	3 Grand Architect 
+	2 Chronozoa
+	4 Grand Architect 
 	2 Krovikan Mist
 	2 Lord of the Unreal
-	3 Pili-Pala
+	4 Pili-Pala
 	2 Phantasmal Image
 # Enchantment - 6
 	2 Fool's Demise
 	2 Favorable Winds
 	2 Declaration of Naught
-## Instant - 14
+## Instant - 10
 	2 Condescend
-    4 Reality Spasm
+    2 Reality Spasm
 	2 Rewind
 	2 Syncopate
-	2 Disperse
 	2 Negate
-## Land - 17
-    16 Island
+## Land - 19
+    18 Island
 	1 Reliquary Tower
 ## Sorcery - 4
     4 Mind Spring
