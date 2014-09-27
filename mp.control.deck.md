@@ -1,11 +1,11 @@
-# Deck - 62
+# Deck - 64
 ## Artifact - 7
 	1 Elixir of Immortality
 	4 Sol Ring
 	1 Venser's Journal
 	1 Riptide Replicator
-## Creature - 16
-	2 Chronozoa
+## Creature - 18
+	4 Chronozoa
 	4 Grand Architect 
 	2 Krovikan Mist
 	2 Lord of the Unreal
