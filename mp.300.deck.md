@@ -1,45 +1,38 @@
 # Deck - 64
-## Artifact - 2
-	1 Angel's Feather
-	1 Spear of Heliod
+## Artifact - 0
 ## Creature - 25
-	2 Akroan Skyguard
-	2 Angelic Overseer
+	4 Akroan Skyguard
 	2 Captain of the Watch
-	2 Archetype of Courage
-	2 Benalish Commander
 	3 Champion of the Parish
-	2 Dawnbringer Charioteers
+	4 God-Favored General
 	1 Frontline Medic
 	2 Hero of Bladehold
-	1 Mikaeus, the Lunarch
 	2 Palace Guard
 	2 Precinct Captain
-	2 Victory's Herald
+	3 Victory's Herald
 ## Enchantment - 8
-	2 Cathars' Crusade
-	2 Mark of Asylum
+	4 Cathars' Crusade
 	2 Militia's Pride
-	2 Spirit Loop
 ## Instant - 4
-	2 Pay No Heed
-	2 Sun's Bounty
-## Land - 22
+	4 Dawn Charm
+## Land - 24
 	2 Forbidding Watchtower
 	2 Kabira Crossroads
-	18 Plains
+	20 Plains
 ## Planeswalker - 0
-## Sorcery - 3
-	1 Mass Calcify
-	2 Nomads' Assembly
+## Sorcery - 4
+	4 Nomads' Assembly
+## Planeswalker - 1
+	1 Elspeth Tirel
 	
 # Sideboard - 15
 ## Artifact - 0
-    4 Card Name
 ## Basic - 0
 ## Creature - 0
-## Enchantment - 0
-## Instant - 0
+## Enchantment - 2
+	2 Mark of Asylum
+## Instant - 4
+	4 Erase
 ## Land - 0
 ## Legendary - 0
 ## Ongoing - 0
